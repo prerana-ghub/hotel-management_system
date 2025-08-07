@@ -88,8 +88,3 @@ Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotel_
 
 * Go to `src` folder → right-click on the **main class** (e.g., `Main.java`) → Click **Run Java**.
 * OR go to `Run > Run Without Debugging` from the top menu.
-
-
----
-
-Let me know if you want this as a **README.md file** or want to edit some wording or style.
